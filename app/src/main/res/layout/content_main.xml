@@ -6,6 +6,8 @@
     android:layout_marginBottom="?actionBarSize"
     app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
+
     <include layout="@layout/main_include_content_board"/>
     <include layout="@layout/main_include_content_button_bar"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
+
